@@ -1,4 +1,4 @@
-package junior.sergivaldo;
+package junior.sergivaldo.services.bucket;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

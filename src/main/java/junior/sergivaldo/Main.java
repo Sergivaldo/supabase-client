@@ -1,5 +1,7 @@
 package junior.sergivaldo;
 
+import junior.sergivaldo.services.bucket.Bucket;
+import junior.sergivaldo.services.bucket.BucketService;
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.jackson.JacksonConverterFactory;

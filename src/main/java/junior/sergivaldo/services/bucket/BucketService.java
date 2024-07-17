@@ -1,4 +1,4 @@
-package junior.sergivaldo;
+package junior.sergivaldo.services.bucket;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
